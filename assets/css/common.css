@@ -177,3 +177,42 @@
 .sidebar-title {
     text-align: center;
 }
+
+.site-footer .rss {
+    display:inline-block;
+    /* position: absolute;
+    left: 0;
+    top: 50%;
+    margin-top: -16px;
+    line-height: 32px; */
+}
+/* archives */
+.archives-list {
+    list-style: inside;
+}
+
+.archives-list:after {
+    width: 100%;
+    height: 0;
+    font: 0/0 a;
+    content: '.';
+    clear: both;
+    overflow: hidden;
+}
+
+.archives-list li {
+    width: 50%;
+    line-height: 1.5;
+    float: left;
+    margin: 10px 0;
+}
+
+.archives-list li span {
+    color: #666;
+}
+
+.archives-list h3 {
+    clear: both;
+    margin: 0;
+    padding: 20px 0 10px;
+}

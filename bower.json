@@ -1,12 +1,12 @@
 {
-  "name": "Yummy-Jekyll",
+  "name": "Icysuki-Jekyll",
   "description": "Jekyll Theme",
   "main": "",
   "keywords": [
     "jekyll"
   ],
   "authors": [
-    "DONG Chuan"
+    "Icysuki"
   ],
   "license": "MIT",
   "homepage": "",
@@ -28,3 +28,6 @@
     "flag-icon-css": "^2.3.1"
   }
 }
+
+
+
