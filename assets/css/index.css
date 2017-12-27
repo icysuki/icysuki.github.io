@@ -36,3 +36,6 @@
 #site-header-brand .octicon-mark-icysuki {
     background-image: url(/assets/images/favicon-reverse.png);
 }
+.site-header-nav-scrolled #site-header-brand .octicon-mark-icysuki{
+    background-image: url(/assets/images/favicon.png); 
+}
