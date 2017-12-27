@@ -33,6 +33,6 @@
     color: #4183c4;
 }
 
-#site-header-brand, #site-header-brand .octicon-mark-icysuki {
+#site-header-brand .octicon-mark-icysuki {
     background-image: url(/assets/images/favicon-reverse.png);
 }
