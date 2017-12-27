@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 开源项目
+title: 开源
 menu: open-source
 css: ['open-source.css']
 javascript: ['underscore-min.js']
