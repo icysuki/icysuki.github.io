@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: icysuki blog # ex. I m Chuan
-name: 冰蝉 # ex. icysuki
+title: 破茧化蝶 # ex. I m Chuan
+name: 冰蝶 # ex. icysuki
 email: icysuiki@163.com
 location: 广东·深圳 # ex. Nice, France
-company: MyCompany
+company: 我的公司
 company_url: my_company_website
 github_url: https://github.com/icysuki # ex. https://github.com/icysuki
 github_username: icysuki # ex. icysuki
@@ -58,27 +58,27 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: Home
+    label: 首页
 
   -
     href: /open-source
-    label: Open-Source
+    label: 开源
 
   -
     href: /blog
-    label: Blog
+    label: 博客
 
   -
     href: /archives
-    label: Archives
+    label: 档案
 
   -
     href: /bookmark
-    label: Bookmark
+    label: 书签
 
   -
     href: /about
-    label: About
+    label: 关于
 
 # ---------------- #
 #       RSS        #
